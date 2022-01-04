@@ -1,6 +1,2 @@
-imgName=devnet-apache2
-contName=devnet-apache2-cont
-
-
-
-echo "************ Testing the sampleapp  *********"
+# no script added here.
+# This file is not in use
